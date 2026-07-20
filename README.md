@@ -3,6 +3,8 @@
 An interactive dashboard that analyzes customer feedback sentiment using **TextBlob**,
 and visualizes the results with **Plotly**, all served through **Streamlit**.
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/62f235c6-fbd9-406a-b83f-3dd0b68ad28a" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/90db4226-2c10-4038-afa7-0d41dc8da897" />
+
 
 ## Features
 - Upload your own CSV or use the bundled sample dataset
